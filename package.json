@@ -1,0 +1,5 @@
+{
+  "name": "BPB-Vercel-Panel",
+  "version": "1.0.0",
+  "main": "api/edge.js"
+}
