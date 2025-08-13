@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/edge.js": {
+      "runtime": "@vercel/edge"
+    }
+  },
+  "routes": [
+    { "src": "/.*", "dest": "api/edge.js" }
+  ]
+}
